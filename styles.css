@@ -1,0 +1,18 @@
+html {
+  color-scheme: light dark;
+}
+
+body {
+  font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;;
+  margin: 1rem auto;
+  max-width: 80ch;
+  padding: 1rem
+}
+
+h1 {
+  border-bottom: 2px solid light-dark(black, white);
+}
+
+li {
+  padding-block: 0.25rem;
+}
